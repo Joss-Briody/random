@@ -1,0 +1,5 @@
+flask
+aiohttp
+requests
+tqdm
+contexttimer
